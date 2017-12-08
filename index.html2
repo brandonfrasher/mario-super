@@ -1,0 +1,87 @@
+<body>
+     <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <link rel="stylesheet" type="text/css" href="styles.css/>
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+    <title>supermario</title>
+  </head>
+ 
+  <<html>
+<head>
+    <style>
+body {
+background-color:red;
+color: gold;
+}
+
+
+</html>
+<head> <style type="rect/css">
+ul{list-style-type:none;
+margin: 0;
+padding: 0;
+overflow:hidden;
+
+}
+a:link,a:visited{
+display:inline;
+front-weight:bold;
+color:#ffffff;
+background-color:#98bf21;
+width:120px;
+line-height:8px;
+text-align:center;
+padding:15px 110px;
+text-transform:uppercase;
+text-decoration:none;
+}
+a:hover,a:active{
+background-color:#7a99ia;
+li{float:left;
+}
+
+</style>
+</head>
+     <ul>
+  <a href="index.html">Home</a></li>
+  <a href="index.html2">about</a></li>
+  <a href="index.html3">original</a></li>
+  <a href="index.html4">finsh</a></li>
+  </ul>
+  </body>
+ </html> 
+
+ <h1>
+ Super Mario World was a critical and commercial success, and is often considered one of the greatest video games of all time.
+ It sold over 20 million copies worldwide, making it the best-selling game on the SNES.
+ It has been re-released multiple times, first as part of the 1994 compilation release Super Mario All-Stars + Super Mario World on the SNES,
+ as Super Mario Advance 2 in 2002.
+ In addition to special power-ups from previous games like the Super Mushroom and Fire Flower, 
+ new power-ups are introduced which provide the player with new gameplay options. 
+ The game  introduces the ability to store an extra power-up in a box at the top centre of the screen. 
+ For example, if the player obtains a Fire Flower or a Cape Feather, then a Super Mushroom will appear in the box.
+ If the player gets hit by an enemy, the stored item in the box will automatically drop. 
+ Alternatively, the player can manually release the stored item at any time.
+
+here is a picture of the crew of the game such as mairo and his brother and enemy.
+
+ <body>
+
+
+ <img src="https://img00.deviantart.net/2ba8/i/2012/099/1/f/mario_time__by_supersmashbrosgmod-d4vm17z.jpg"
+ width=1255;height=1000;center;
+
+{
+display:block;
+}
+</style>
+</head>
+
+
+
+ </html>
+
+
+
+
+
